@@ -1,0 +1,22 @@
+{
+  "author": "alexstrat",
+  "name": "aliasify",
+  "description": "Browserify middleware allowing embedded alias rules in source code",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexstrat/node-aliasify.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/tap/bin/tap.js test/*.js"
+  },
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap" : "0.2.x",
+    "browserify" : "~1.10"
+  }
+}
