@@ -1,6 +1,8 @@
 node-aliasify
 =============
 
+### Not maintained anymore: use [tagify](https://github.com/alexstrat/node-tagify) instead
+
 Browserify middleware allowing embedded alias rules in source code
 
 ### Installation
